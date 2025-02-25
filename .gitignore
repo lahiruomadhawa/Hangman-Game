@@ -1,0 +1,16 @@
+ 
+# Django
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Vue
+node_modules/
+dist/
+
+# General
+.DS_Store
+.idea/
+.vscode/
