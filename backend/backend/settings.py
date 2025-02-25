@@ -132,5 +132,4 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # Store static word list in settings file. no need to change anywhere when needed
-# STATIC_WORDS = ["Hangman", "Python", "Audacix", "Bottle", "Pen"]
-STATIC_WORDS = ["Bottle", "Pen", "Janani"]
+STATIC_WORDS = ["Hangman", "Python", "Audacix", "Bottle", "Pen"]
