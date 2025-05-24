@@ -2,6 +2,19 @@
 
 A modern, full-stack implementation of the classic Hangman word-guessing game built with Django REST Framework and Vue.js.
 
+📸 Screenshots
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/hangman-demo.png" alt="Hangman Game Demo" width="600"/>
+  <p><em>Interactive Hangman game with modern UI - guess the word before the drawing is complete!</em></p>
+</div>
+<!-- Replace the placeholder above with your actual screenshot -->
+<!-- Alternative: Use a generic hangman illustration -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hangman_game.jpg/300px-Hangman_game.jpg" alt="Hangman Game Concept" width="300"/>
+  <p><em>Classic Hangman game concept - built with modern web technologies</em></p>
+</div>
+
 ## 🚀 Features
 
 - **Interactive Gameplay**: Classic hangman mechanics with visual feedback
